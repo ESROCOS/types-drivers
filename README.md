@@ -1,13 +1,12 @@
-asn1_types
+types/drivers
 =============
-ASN.1 types for SARGON components, both manually defined and generated 
-from Rock.
+Robotics data types in ASN.1, both manually defined and generated 
+from Rock driver types.
 
 License
 -------
-TBD
+GPLv2
 
 Installation
 ------------
-Cannot be installed outside the TASTE/ESROCOS environment at the moment
-
+From the build directory, run cmake .., then make.

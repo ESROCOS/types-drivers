@@ -1,12 +1,9 @@
 <package>
-    <description brief="Basic robotic data types for TASTE">
-        The base package defines types that are generally useful for robotic systems.
+    <description brief="Basic driver data types for TASTE">
+        The drivers package defines types that are generally useful for robotic systems.
     </description>
-    <author>GMV</author>
-    <copyright>
-        GMV S.A.
-    </copyright>
-    <license>LGPL v2 or later</license>
+    <author>GMV Aerospace &amp; Defence S.A.U.</author>
+    <copyright>GMV 2018</copyright>
+    <license>GPLv2</license>
     <depend package="types/base"/>
-
 </package>
