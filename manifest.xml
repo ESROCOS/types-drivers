@@ -6,4 +6,5 @@
     <copyright>GMV 2018</copyright>
     <license>GPLv2</license>
     <depend package="types/base"/>
+    <depend package="tools/config" />
 </package>
